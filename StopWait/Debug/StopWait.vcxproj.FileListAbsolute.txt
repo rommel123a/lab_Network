@@ -1,0 +1,2 @@
+C:\Study\Junior\ComputerNetwork\lab_2\StopWait\Debug\StopWait.exe
+C:\Study\Junior\ComputerNetwork\lab_2\StopWait\Debug\StopWait.pdb
